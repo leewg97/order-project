@@ -1,4 +1,4 @@
-package com.example.order.infrastructure.partner.infrastructure;
+package com.example.order.infrastructure;
 
 import com.example.order.domain.notification.NotificationService;
 import lombok.extern.slf4j.Slf4j;
